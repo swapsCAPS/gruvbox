@@ -1216,7 +1216,7 @@ hi! link coffeeCurly GruvboxOrange
 hi! link coffeeParen GruvboxRed
 hi! link coffeeBracket GruvboxOrange
 hi! link coffeeKeyword GruvboxYellow
-
+hi! link coffeeOperator GruvboxRed
 
 " }}}
 " Ruby: {{{
