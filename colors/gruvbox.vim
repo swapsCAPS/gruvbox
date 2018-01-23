@@ -1210,11 +1210,13 @@ hi! link purescriptBacktick GruvboxOrange
 " }}}
 " CoffeeScript: {{{
 
-hi! link coffeeExtendedOp GruvboxFg3
-hi! link coffeeSpecialOp GruvboxFg3
+hi! link coffeeExtendedOp GruvboxRed
+hi! link coffeeSpecialOp GruvboxRed
 hi! link coffeeCurly GruvboxOrange
-hi! link coffeeParen GruvboxFg3
+hi! link coffeeParen GruvboxRed
 hi! link coffeeBracket GruvboxOrange
+hi! link coffeeKeyword GruvboxYellow
+
 
 " }}}
 " Ruby: {{{
